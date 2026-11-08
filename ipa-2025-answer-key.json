@@ -1,0 +1,606 @@
+{
+  "source": "IPA 令和7年度 ITパスポート公開問題 解答例",
+  "sourceUrl": "https://www3.jitec.ipa.go.jp/JitesCbt/html/openinfo/pdf/questions/2025r07_ip_ans.pdf",
+  "answers": [
+    {
+      "year": 2025,
+      "number": 1,
+      "answer": "ウ",
+      "id": "IPA-2025-001"
+    },
+    {
+      "year": 2025,
+      "number": 2,
+      "answer": "ウ",
+      "id": "IPA-2025-002"
+    },
+    {
+      "year": 2025,
+      "number": 3,
+      "answer": "イ",
+      "id": "IPA-2025-003"
+    },
+    {
+      "year": 2025,
+      "number": 4,
+      "answer": "エ",
+      "id": "IPA-2025-004"
+    },
+    {
+      "year": 2025,
+      "number": 5,
+      "answer": "ウ",
+      "id": "IPA-2025-005"
+    },
+    {
+      "year": 2025,
+      "number": 6,
+      "answer": "イ",
+      "id": "IPA-2025-006"
+    },
+    {
+      "year": 2025,
+      "number": 7,
+      "answer": "イ",
+      "id": "IPA-2025-007"
+    },
+    {
+      "year": 2025,
+      "number": 8,
+      "answer": "イ",
+      "id": "IPA-2025-008"
+    },
+    {
+      "year": 2025,
+      "number": 9,
+      "answer": "ウ",
+      "id": "IPA-2025-009"
+    },
+    {
+      "year": 2025,
+      "number": 10,
+      "answer": "エ",
+      "id": "IPA-2025-010"
+    },
+    {
+      "year": 2025,
+      "number": 11,
+      "answer": "エ",
+      "id": "IPA-2025-011"
+    },
+    {
+      "year": 2025,
+      "number": 12,
+      "answer": "エ",
+      "id": "IPA-2025-012"
+    },
+    {
+      "year": 2025,
+      "number": 13,
+      "answer": "ウ",
+      "id": "IPA-2025-013"
+    },
+    {
+      "year": 2025,
+      "number": 14,
+      "answer": "イ",
+      "id": "IPA-2025-014"
+    },
+    {
+      "year": 2025,
+      "number": 15,
+      "answer": "ア",
+      "id": "IPA-2025-015"
+    },
+    {
+      "year": 2025,
+      "number": 16,
+      "answer": "イ",
+      "id": "IPA-2025-016"
+    },
+    {
+      "year": 2025,
+      "number": 17,
+      "answer": "ア",
+      "id": "IPA-2025-017"
+    },
+    {
+      "year": 2025,
+      "number": 18,
+      "answer": "ア",
+      "id": "IPA-2025-018"
+    },
+    {
+      "year": 2025,
+      "number": 19,
+      "answer": "ア",
+      "id": "IPA-2025-019"
+    },
+    {
+      "year": 2025,
+      "number": 20,
+      "answer": "イ",
+      "id": "IPA-2025-020"
+    },
+    {
+      "year": 2025,
+      "number": 21,
+      "answer": "イ",
+      "id": "IPA-2025-021"
+    },
+    {
+      "year": 2025,
+      "number": 22,
+      "answer": "ウ",
+      "id": "IPA-2025-022"
+    },
+    {
+      "year": 2025,
+      "number": 23,
+      "answer": "ウ",
+      "id": "IPA-2025-023"
+    },
+    {
+      "year": 2025,
+      "number": 24,
+      "answer": "エ",
+      "id": "IPA-2025-024"
+    },
+    {
+      "year": 2025,
+      "number": 25,
+      "answer": "ア",
+      "id": "IPA-2025-025"
+    },
+    {
+      "year": 2025,
+      "number": 26,
+      "answer": "ウ",
+      "id": "IPA-2025-026"
+    },
+    {
+      "year": 2025,
+      "number": 27,
+      "answer": "イ",
+      "id": "IPA-2025-027"
+    },
+    {
+      "year": 2025,
+      "number": 28,
+      "answer": "エ",
+      "id": "IPA-2025-028"
+    },
+    {
+      "year": 2025,
+      "number": 29,
+      "answer": "イ",
+      "id": "IPA-2025-029"
+    },
+    {
+      "year": 2025,
+      "number": 30,
+      "answer": "エ",
+      "id": "IPA-2025-030"
+    },
+    {
+      "year": 2025,
+      "number": 31,
+      "answer": "イ",
+      "id": "IPA-2025-031"
+    },
+    {
+      "year": 2025,
+      "number": 32,
+      "answer": "ウ",
+      "id": "IPA-2025-032"
+    },
+    {
+      "year": 2025,
+      "number": 33,
+      "answer": "ア",
+      "id": "IPA-2025-033"
+    },
+    {
+      "year": 2025,
+      "number": 34,
+      "answer": "イ",
+      "id": "IPA-2025-034"
+    },
+    {
+      "year": 2025,
+      "number": 35,
+      "answer": "エ",
+      "id": "IPA-2025-035"
+    },
+    {
+      "year": 2025,
+      "number": 36,
+      "answer": "ア",
+      "id": "IPA-2025-036"
+    },
+    {
+      "year": 2025,
+      "number": 37,
+      "answer": "エ",
+      "id": "IPA-2025-037"
+    },
+    {
+      "year": 2025,
+      "number": 38,
+      "answer": "エ",
+      "id": "IPA-2025-038"
+    },
+    {
+      "year": 2025,
+      "number": 39,
+      "answer": "ア",
+      "id": "IPA-2025-039"
+    },
+    {
+      "year": 2025,
+      "number": 40,
+      "answer": "イ",
+      "id": "IPA-2025-040"
+    },
+    {
+      "year": 2025,
+      "number": 41,
+      "answer": "エ",
+      "id": "IPA-2025-041"
+    },
+    {
+      "year": 2025,
+      "number": 42,
+      "answer": "ア",
+      "id": "IPA-2025-042"
+    },
+    {
+      "year": 2025,
+      "number": 43,
+      "answer": "ア",
+      "id": "IPA-2025-043"
+    },
+    {
+      "year": 2025,
+      "number": 44,
+      "answer": "エ",
+      "id": "IPA-2025-044"
+    },
+    {
+      "year": 2025,
+      "number": 45,
+      "answer": "ア",
+      "id": "IPA-2025-045"
+    },
+    {
+      "year": 2025,
+      "number": 46,
+      "answer": "イ",
+      "id": "IPA-2025-046"
+    },
+    {
+      "year": 2025,
+      "number": 47,
+      "answer": "エ",
+      "id": "IPA-2025-047"
+    },
+    {
+      "year": 2025,
+      "number": 48,
+      "answer": "ア",
+      "id": "IPA-2025-048"
+    },
+    {
+      "year": 2025,
+      "number": 49,
+      "answer": "ウ",
+      "id": "IPA-2025-049"
+    },
+    {
+      "year": 2025,
+      "number": 50,
+      "answer": "ア",
+      "id": "IPA-2025-050"
+    },
+    {
+      "year": 2025,
+      "number": 51,
+      "answer": "エ",
+      "id": "IPA-2025-051"
+    },
+    {
+      "year": 2025,
+      "number": 52,
+      "answer": "ア",
+      "id": "IPA-2025-052"
+    },
+    {
+      "year": 2025,
+      "number": 53,
+      "answer": "イ",
+      "id": "IPA-2025-053"
+    },
+    {
+      "year": 2025,
+      "number": 54,
+      "answer": "ア",
+      "id": "IPA-2025-054"
+    },
+    {
+      "year": 2025,
+      "number": 55,
+      "answer": "ア",
+      "id": "IPA-2025-055"
+    },
+    {
+      "year": 2025,
+      "number": 56,
+      "answer": "ア",
+      "id": "IPA-2025-056"
+    },
+    {
+      "year": 2025,
+      "number": 57,
+      "answer": "イ",
+      "id": "IPA-2025-057"
+    },
+    {
+      "year": 2025,
+      "number": 58,
+      "answer": "ウ",
+      "id": "IPA-2025-058"
+    },
+    {
+      "year": 2025,
+      "number": 59,
+      "answer": "ア",
+      "id": "IPA-2025-059"
+    },
+    {
+      "year": 2025,
+      "number": 60,
+      "answer": "エ",
+      "id": "IPA-2025-060"
+    },
+    {
+      "year": 2025,
+      "number": 61,
+      "answer": "ウ",
+      "id": "IPA-2025-061"
+    },
+    {
+      "year": 2025,
+      "number": 62,
+      "answer": "ア",
+      "id": "IPA-2025-062"
+    },
+    {
+      "year": 2025,
+      "number": 63,
+      "answer": "ウ",
+      "id": "IPA-2025-063"
+    },
+    {
+      "year": 2025,
+      "number": 64,
+      "answer": "イ",
+      "id": "IPA-2025-064"
+    },
+    {
+      "year": 2025,
+      "number": 65,
+      "answer": "ア",
+      "id": "IPA-2025-065"
+    },
+    {
+      "year": 2025,
+      "number": 66,
+      "answer": "イ",
+      "id": "IPA-2025-066"
+    },
+    {
+      "year": 2025,
+      "number": 67,
+      "answer": "イ",
+      "id": "IPA-2025-067"
+    },
+    {
+      "year": 2025,
+      "number": 68,
+      "answer": "ウ",
+      "id": "IPA-2025-068"
+    },
+    {
+      "year": 2025,
+      "number": 69,
+      "answer": "イ",
+      "id": "IPA-2025-069"
+    },
+    {
+      "year": 2025,
+      "number": 70,
+      "answer": "エ",
+      "id": "IPA-2025-070"
+    },
+    {
+      "year": 2025,
+      "number": 71,
+      "answer": "エ",
+      "id": "IPA-2025-071"
+    },
+    {
+      "year": 2025,
+      "number": 72,
+      "answer": "イ",
+      "id": "IPA-2025-072"
+    },
+    {
+      "year": 2025,
+      "number": 73,
+      "answer": "ウ",
+      "id": "IPA-2025-073"
+    },
+    {
+      "year": 2025,
+      "number": 74,
+      "answer": "ア",
+      "id": "IPA-2025-074"
+    },
+    {
+      "year": 2025,
+      "number": 75,
+      "answer": "ウ",
+      "id": "IPA-2025-075"
+    },
+    {
+      "year": 2025,
+      "number": 76,
+      "answer": "ウ",
+      "id": "IPA-2025-076"
+    },
+    {
+      "year": 2025,
+      "number": 77,
+      "answer": "イ",
+      "id": "IPA-2025-077"
+    },
+    {
+      "year": 2025,
+      "number": 78,
+      "answer": "エ",
+      "id": "IPA-2025-078"
+    },
+    {
+      "year": 2025,
+      "number": 79,
+      "answer": "ア",
+      "id": "IPA-2025-079"
+    },
+    {
+      "year": 2025,
+      "number": 80,
+      "answer": "ウ",
+      "id": "IPA-2025-080"
+    },
+    {
+      "year": 2025,
+      "number": 81,
+      "answer": "エ",
+      "id": "IPA-2025-081"
+    },
+    {
+      "year": 2025,
+      "number": 82,
+      "answer": "ウ",
+      "id": "IPA-2025-082"
+    },
+    {
+      "year": 2025,
+      "number": 83,
+      "answer": "ウ",
+      "id": "IPA-2025-083"
+    },
+    {
+      "year": 2025,
+      "number": 84,
+      "answer": "イ",
+      "id": "IPA-2025-084"
+    },
+    {
+      "year": 2025,
+      "number": 85,
+      "answer": "イ",
+      "id": "IPA-2025-085"
+    },
+    {
+      "year": 2025,
+      "number": 86,
+      "answer": "エ",
+      "id": "IPA-2025-086"
+    },
+    {
+      "year": 2025,
+      "number": 87,
+      "answer": "ウ",
+      "id": "IPA-2025-087"
+    },
+    {
+      "year": 2025,
+      "number": 88,
+      "answer": "イ",
+      "id": "IPA-2025-088"
+    },
+    {
+      "year": 2025,
+      "number": 89,
+      "answer": "ア",
+      "id": "IPA-2025-089"
+    },
+    {
+      "year": 2025,
+      "number": 90,
+      "answer": "エ",
+      "id": "IPA-2025-090"
+    },
+    {
+      "year": 2025,
+      "number": 91,
+      "answer": "エ",
+      "id": "IPA-2025-091"
+    },
+    {
+      "year": 2025,
+      "number": 92,
+      "answer": "ア",
+      "id": "IPA-2025-092"
+    },
+    {
+      "year": 2025,
+      "number": 93,
+      "answer": "ウ",
+      "id": "IPA-2025-093"
+    },
+    {
+      "year": 2025,
+      "number": 94,
+      "answer": "イ",
+      "id": "IPA-2025-094"
+    },
+    {
+      "year": 2025,
+      "number": 95,
+      "answer": "ウ",
+      "id": "IPA-2025-095"
+    },
+    {
+      "year": 2025,
+      "number": 96,
+      "answer": "ウ",
+      "id": "IPA-2025-096"
+    },
+    {
+      "year": 2025,
+      "number": 97,
+      "answer": "ア",
+      "id": "IPA-2025-097"
+    },
+    {
+      "year": 2025,
+      "number": 98,
+      "answer": "ウ",
+      "id": "IPA-2025-098"
+    },
+    {
+      "year": 2025,
+      "number": 99,
+      "answer": "ウ",
+      "id": "IPA-2025-099"
+    },
+    {
+      "year": 2025,
+      "number": 100,
+      "answer": "ア",
+      "id": "IPA-2025-100"
+    }
+  ]
+}

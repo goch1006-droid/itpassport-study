@@ -1,0 +1,16 @@
+{
+  "_note": "形式の説明用です。IPA公式問題ではありません。",
+  "questions": [{
+    "id": "ipa-2025-001",
+    "source": "IPA",
+    "year": 2025,
+    "number": 1,
+    "category": "ストラテジ系",
+    "topic": "テーマ名",
+    "question": "ここに公式PDFから照合済みの問題文を入力",
+    "choices": ["選択肢ア", "選択肢イ", "選択肢ウ", "選択肢エ"],
+    "correct": 0,
+    "explanation": "正答根拠を入力",
+    "verified": false
+  }]
+}
